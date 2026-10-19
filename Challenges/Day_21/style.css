@@ -11,7 +11,7 @@ h1 {
 	text-align: center;
 	background: url(image.jpg);
 	-webkit-background-clip: text;
-	color: transparent;
+	color: white;
 	animation: text-background 20s linear infinite;
 }
 
